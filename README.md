@@ -14,7 +14,7 @@
 ![Linear Regression Output](./01_Linear_Regression/output.png)
 
 ### Lab 02: Logistic Regression (Scikit-Learn)
-![Logistic Regression Sklearn Output](./02_Logistic_Regression/output_sklearn.png)
+![Logistic Regression Sklearn Output](./02_Logistic_Regression/Figure_2.png)
 
 ### Lab 02: Logistic Regression (From Scratch)
-![Logistic Regression Scratch Output](./02_Logistic_Regression/output_scratch.png)
+![Logistic Regression Scratch Output](./02_Logistic_Regression/Figure_3.png)
